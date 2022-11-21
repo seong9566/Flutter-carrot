@@ -16,6 +16,7 @@ dependencies:
   google_fonts: ^3.0.1
   font_awesome_flutter: ^10.2.1
   intl: ^0.17.0 # 날짜 , 숫자 포멧해줌.
+  cached_network_image: ^3.2.1 # 이미지 캐싱 
   
 dev_dependencies:
   flutter_test:

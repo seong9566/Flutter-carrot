@@ -1,8 +1,8 @@
 // ignore_for_file: prefer_const_constructors
 // ignore: prefer_const_literals_to_create_immutables
 // ignore: prefer_const_literals_to_create_immutables
-import 'package:carrot_market/view/pages/main/chatting/chatting_page.dart';
-import 'package:carrot_market/view/pages/main/home/home_page.dart';
+import 'package:carrot_market/view/pages/main/chatting/chatting_view.dart';
+import 'package:carrot_market/view/pages/main/home/home_view.dart';
 import 'package:carrot_market/view/pages/main/my_carrot/my_carrot.dart';
 import 'package:carrot_market/view/pages/main/near_me/near_me_page.dart';
 import 'package:carrot_market/view/pages/main/neighborhood_life/neighborhood_life_page.dart';
